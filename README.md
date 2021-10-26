@@ -1,1 +1,2 @@
-https://github.com/browserExtension057/browserExtension057.io
+visit the Github Page at:
+https://browserextension057.github.io/browserExtension057/
